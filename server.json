@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "Gustô",
+      "description": "Um aplicativo voltado para restaurantes, com objetivo de tornar mais pratico e fácil o atendimento ao cliente"
+    },
+    {
+      "name": "Walkie Dog",
+      "description": ""
+    }
+  ]
+}
